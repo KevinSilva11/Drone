@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+}
+.logo{
+    background-color: black;
+    padding: 5px;
+    
+}
+
+.textologo{
+    color: #FFF;
+    margin: 0%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.banner p{
+    color: white;
+    text-align: right;
+    font-size: 30px;
+    text-shadow: 0px 0px 5px black;
+    margin-top: 350px;
+}
+
+.banner{
+    background-image: url(img/banner.jpg);
+    background-size: cover;
+    height: 500px;
+    overflow: auto;
+    font-family: 'Arimo', sans-serif;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.ligacoes{
+    overflow: auto;
+    display: flex;
+    font-family: 'Arimo', sans-serif;
+}
+
+.ligacoes div{
+    width: 50%;
+}
+
+.ligacoes div p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.ligacoes div img{
+    width: 690px;
+    margin: 10px;
+}
+
+.download{
+    background-color: blue;
+    display: flex;
+}
+
+.Download div{
+    width: 50%;
+}
+
+.Download div p{
+    width: 100%;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+}
+
+footer img{
+    width: 100px;
+    height: 100px;
+}
+
+#id30{
+    margin-left: 38%;
+
+}
